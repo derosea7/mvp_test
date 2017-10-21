@@ -1,0 +1,10 @@
+E:\dev\projs\desktop\mvp_test\MVPTest\MVPTest\bin\Debug\MVPTest.exe.config
+E:\dev\projs\desktop\mvp_test\MVPTest\MVPTest\bin\Debug\MVPTest.exe
+E:\dev\projs\desktop\mvp_test\MVPTest\MVPTest\bin\Debug\MVPTest.pdb
+E:\dev\projs\desktop\mvp_test\MVPTest\MVPTest\obj\Debug\MVPTest.csprojResolveAssemblyReference.cache
+E:\dev\projs\desktop\mvp_test\MVPTest\MVPTest\obj\Debug\MVPTest.Form1.resources
+E:\dev\projs\desktop\mvp_test\MVPTest\MVPTest\obj\Debug\MVPTest.Properties.Resources.resources
+E:\dev\projs\desktop\mvp_test\MVPTest\MVPTest\obj\Debug\MVPTest.csproj.GenerateResource.Cache
+E:\dev\projs\desktop\mvp_test\MVPTest\MVPTest\obj\Debug\MVPTest.csproj.CoreCompileInputs.cache
+E:\dev\projs\desktop\mvp_test\MVPTest\MVPTest\obj\Debug\MVPTest.exe
+E:\dev\projs\desktop\mvp_test\MVPTest\MVPTest\obj\Debug\MVPTest.pdb
